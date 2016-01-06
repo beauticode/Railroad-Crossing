@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2015
+ * Gary S
+ */
+
 #include <Servo.h>
 //
 short button,led1,led2,buzzer,motor;
